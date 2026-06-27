@@ -4,11 +4,11 @@
    necesita modificarse para que el sitio funcione.
    =========================================================== */
 :root {
-  --color-primario: #2E75B6;        /* PERSONALIZA */
-  --color-secundario: #1A1A1A;      /* PERSONALIZA */
-  --color-fondo: #F5F7FA;           /* PERSONALIZA */
-  --color-fondo-oscuro: #1A1A1A;
-  --color-texto-oscuro: #F5F7FA;
+  --color-primario: #0078D4;        /* PERSONALIZA */
+  --color-secundario: #1F2937;      /* PERSONALIZA */
+  --color-fondo: #F3F4F6;           /* PERSONALIZA */
+  --color-fondo-oscuro: #111827;
+  --color-texto-oscuro: #F9FAFB;
   --color-tarjeta: #FFFFFF;
 }
 
